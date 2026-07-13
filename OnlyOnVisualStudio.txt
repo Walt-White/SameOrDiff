@@ -1,0 +1,6 @@
+=============== DO NOT upload this file to PythonAnywhere. ===========
+=========== Two blocks of code must be in the SetPage.py program =====
+======== for Visual Studio to work properly, and those blocks of =====
+======= code make PythonAnywhere fail.  So SetPage.py checks to see ==
+==== if this file exists before running those blocks of code. ========
+======================================================================
